@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://appsys.digital/wp-content/uploads/2024/11/appsys_logo_shape_final_241027.png"  />
+  <img height="300" src="https://avatars.githubusercontent.com/u/170054954?s=200&v=4"  />
 </div>
 
 ###
